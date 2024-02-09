@@ -5,13 +5,13 @@ Its user-centric features enable seamless browsing and purchasing of books from 
 ## For Users:
 
 Browsing and Buying : Users can easily browse and purchase textbooks anytime, anywhere, providing convenience and flexibility.  
-Selling Books : The platform enables users to sell textbooks they no longer need, simplifying the process of book recirculation.  
+Selling Books : The platform enables users to sell textbooks they no longer need, simplifying the process of book recirculation.    
 
 ## For Administrators:
 
-Enhanced Book Browsing : Administrators have improved tools for browsing book information, making data access more efficient.  
-Data Management : The system allows for updating and sending alerts about book or user details, ensuring effective data control.  
-Price Calculation : An automated feature for calculating used book prices aids in managing book inventory efficiently, streamlining the pricing process.  
+Enhanced Book Browsing : Administrators have improved tools for browsing book information, making data access more efficient.    
+Data Management : The system allows for updating and sending alerts about book or user details, ensuring effective data control.    
+Price Calculation : An automated feature for calculating used book prices aids in managing book inventory efficiently, streamlining the pricing process.    
 
 ## Tech-Stack
 
