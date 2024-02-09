@@ -16,13 +16,18 @@ Price Calculation : An automated feature for calculating used book prices aids i
 ## Tech-Stack
 
 Spring Boot : Designed to streamline the configuration and deployment of Spring-based applications. It negates the need for extensive setup and configuration, offering an out-of-the-box solution
-that reduces the time to market.
+that reduces the time to market.  
+
 Spring Data JPA : Part of the Spring Data project, simplifying the data access layer by reducing the amount of boilerplate code required. It provides a higher level of abstraction for database interactions,
-making CRUD operations more straightforward.
-MySQL : A good option for an open-source relational database. It is highly popular for web applications due to its ease of use, robustness, and compatibility with a wide range of applications.
+making CRUD operations more straightforward.  
+
+MySQL : A good option for an open-source relational database. It is highly popular for web applications due to its ease of use, robustness, and compatibility with a wide range of applications.  
 Hibernate ORM : Pivotal in mapping Java classes to database tables, effectively synchronizing the object-oriented model with the relational database, thereby abstracting complex SQL operations into 
-simpler Java-based handling.
+simpler Java-based handling.  
+
 Spring MVC : instrumental in developing web applications with clear separation between the presentation layer and business logic. It allows developers to build scalable and flexible web applications
-by organizing the codebase into manageable segments.
-Maven : A cornerstone tool for Java projects, addressing build automation and dependency management. It streamlines the build lifecycle, allowing for reproducible builds and easier project maintenance.
-Exception Handling : The project is customized to deal with specific business logic errors and exceptions, ensuring that the system behaves predictably and remains stable in the face of unexpected conditions.**
+by organizing the codebase into manageable segments.  
+
+Maven : A cornerstone tool for Java projects, addressing build automation and dependency management. It streamlines the build lifecycle, allowing for reproducible builds and easier project maintenance. 
+
+Exception Handling : The project is customized to deal with specific business logic errors and exceptions, ensuring that the system behaves predictably and remains stable in the face of unexpected conditions.  
